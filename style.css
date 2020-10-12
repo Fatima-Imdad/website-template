@@ -1,0 +1,8 @@
+
+.class1{
+    background-image: url(headphones.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 500px;
+}
